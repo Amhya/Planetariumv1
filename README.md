@@ -1,6 +1,6 @@
 # planetarium_v1
 
-A new Flutter project.
+Member: Rupert Caingal, CHristian Joy Salamant, Ernesto Esguerra, Jimwell Seminiano
 
 ## Getting Started
 
