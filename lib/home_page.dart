@@ -1,3 +1,10 @@
+//Title:Planetarium
+//Description: An application that provide info about our universe
+//Programmer:
+//Ernesto E. Esguerra
+//Rupert Caingal
+//Christian Joy Salamat
+//Jimwell Seminiano
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
