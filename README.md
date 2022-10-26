@@ -1,6 +1,6 @@
 # planetarium_v1
 
- Title:Planetarium --
+ Title:Planetarium__
  Description: An application that provide info about our universe 
  Programmer: 
    Ernesto E. Esguerra 
